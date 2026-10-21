@@ -1,0 +1,322 @@
+[
+  {
+    "id": "dev-sentiment-1",
+    "split": "dev",
+    "kind": "sentiment",
+    "group": "dev-sentiment",
+    "prompt": "Is this review positive or negative? I loved every minute.",
+    "answer": "positive"
+  },
+  {
+    "id": "dev-sentiment-2",
+    "split": "dev",
+    "kind": "sentiment",
+    "group": "dev-sentiment",
+    "prompt": "Is this review positive or negative? This product is terrible.",
+    "answer": "negative"
+  },
+  {
+    "id": "dev-sentiment-3",
+    "split": "dev",
+    "kind": "sentiment",
+    "group": "dev-sentiment",
+    "prompt": "Is this review positive or negative? A wonderful experience.",
+    "answer": "positive"
+  },
+  {
+    "id": "dev-sentiment-4",
+    "split": "dev",
+    "kind": "sentiment",
+    "group": "dev-sentiment",
+    "prompt": "Is this review positive or negative? A complete waste of time.",
+    "answer": "negative"
+  },
+  {
+    "id": "eval-sentiment-1",
+    "split": "eval",
+    "kind": "sentiment",
+    "group": "eval-sentiment",
+    "prompt": "Classify the sentiment as positive or negative. Review: \"The service was delightful.\" Answer:",
+    "answer": "positive"
+  },
+  {
+    "id": "eval-sentiment-2",
+    "split": "eval",
+    "kind": "sentiment",
+    "group": "eval-sentiment",
+    "prompt": "Classify the sentiment as positive or negative. Review: \"It broke on the first day.\" Answer:",
+    "answer": "negative"
+  },
+  {
+    "id": "eval-sentiment-3",
+    "split": "eval",
+    "kind": "sentiment",
+    "group": "eval-sentiment",
+    "prompt": "Classify the sentiment as positive or negative. Review: \"I am thrilled with my purchase.\" Answer:",
+    "answer": "positive"
+  },
+  {
+    "id": "eval-sentiment-4",
+    "split": "eval",
+    "kind": "sentiment",
+    "group": "eval-sentiment",
+    "prompt": "Classify the sentiment as positive or negative. Review: \"The staff were rude and unhelpful.\" Answer:",
+    "answer": "negative"
+  },
+  {
+    "id": "eval-sentiment-5",
+    "split": "eval",
+    "kind": "sentiment",
+    "group": "eval-sentiment",
+    "prompt": "Classify the sentiment as positive or negative. Review: \"Excellent quality and fast delivery.\" Answer:",
+    "answer": "positive"
+  },
+  {
+    "id": "eval-sentiment-6",
+    "split": "eval",
+    "kind": "sentiment",
+    "group": "eval-sentiment",
+    "prompt": "Classify the sentiment as positive or negative. Review: \"I regret buying this item.\" Answer:",
+    "answer": "negative"
+  },
+  {
+    "id": "dev-extraction-1",
+    "split": "dev",
+    "kind": "extraction",
+    "group": "dev-extraction",
+    "prompt": "Mira lives in Lima. Where does Mira live? Answer with the city only.",
+    "answer": "Lima"
+  },
+  {
+    "id": "dev-extraction-2",
+    "split": "dev",
+    "kind": "extraction",
+    "group": "dev-extraction",
+    "prompt": "Owen lives in Oslo. Where does Owen live? Answer with the city only.",
+    "answer": "Oslo"
+  },
+  {
+    "id": "dev-extraction-3",
+    "split": "dev",
+    "kind": "extraction",
+    "group": "dev-extraction",
+    "prompt": "Ava lives in Rome. Where does Ava live? Answer with the city only.",
+    "answer": "Rome"
+  },
+  {
+    "id": "dev-extraction-4",
+    "split": "dev",
+    "kind": "extraction",
+    "group": "dev-extraction",
+    "prompt": "Noah lives in Paris. Where does Noah live? Answer with the city only.",
+    "answer": "Paris"
+  },
+  {
+    "id": "eval-extraction-1",
+    "split": "eval",
+    "kind": "extraction",
+    "group": "eval-extraction",
+    "prompt": "Record: employee=Tessa; office=Berlin; role=analyst. Return only the office value.",
+    "answer": "Berlin"
+  },
+  {
+    "id": "eval-extraction-2",
+    "split": "eval",
+    "kind": "extraction",
+    "group": "eval-extraction",
+    "prompt": "Record: employee=Ravi; office=Delhi; role=analyst. Return only the office value.",
+    "answer": "Delhi"
+  },
+  {
+    "id": "eval-extraction-3",
+    "split": "eval",
+    "kind": "extraction",
+    "group": "eval-extraction",
+    "prompt": "Record: employee=Iris; office=Tokyo; role=analyst. Return only the office value.",
+    "answer": "Tokyo"
+  },
+  {
+    "id": "eval-extraction-4",
+    "split": "eval",
+    "kind": "extraction",
+    "group": "eval-extraction",
+    "prompt": "Record: employee=Leon; office=Madrid; role=analyst. Return only the office value.",
+    "answer": "Madrid"
+  },
+  {
+    "id": "eval-extraction-5",
+    "split": "eval",
+    "kind": "extraction",
+    "group": "eval-extraction",
+    "prompt": "Record: employee=Nora; office=Dublin; role=analyst. Return only the office value.",
+    "answer": "Dublin"
+  },
+  {
+    "id": "eval-extraction-6",
+    "split": "eval",
+    "kind": "extraction",
+    "group": "eval-extraction",
+    "prompt": "Record: employee=Evan; office=Boston; role=analyst. Return only the office value.",
+    "answer": "Boston"
+  },
+  {
+    "id": "dev-arithmetic-1",
+    "split": "dev",
+    "kind": "arithmetic",
+    "group": "dev-arithmetic",
+    "prompt": "What is 2 plus 3? Answer with the number only.",
+    "answer": "5"
+  },
+  {
+    "id": "dev-arithmetic-2",
+    "split": "dev",
+    "kind": "arithmetic",
+    "group": "dev-arithmetic",
+    "prompt": "What is 4 plus 5? Answer with the number only.",
+    "answer": "9"
+  },
+  {
+    "id": "dev-arithmetic-3",
+    "split": "dev",
+    "kind": "arithmetic",
+    "group": "dev-arithmetic",
+    "prompt": "What is 7 plus 2? Answer with the number only.",
+    "answer": "9"
+  },
+  {
+    "id": "dev-arithmetic-4",
+    "split": "dev",
+    "kind": "arithmetic",
+    "group": "dev-arithmetic",
+    "prompt": "What is 6 plus 6? Answer with the number only.",
+    "answer": "12"
+  },
+  {
+    "id": "eval-arithmetic-1",
+    "split": "eval",
+    "kind": "arithmetic",
+    "group": "eval-arithmetic",
+    "prompt": "A box holds 13 red beads and 8 blue beads. How many beads are in the box? Give only the number.",
+    "answer": "21"
+  },
+  {
+    "id": "eval-arithmetic-2",
+    "split": "eval",
+    "kind": "arithmetic",
+    "group": "eval-arithmetic",
+    "prompt": "A box holds 17 red beads and 6 blue beads. How many beads are in the box? Give only the number.",
+    "answer": "23"
+  },
+  {
+    "id": "eval-arithmetic-3",
+    "split": "eval",
+    "kind": "arithmetic",
+    "group": "eval-arithmetic",
+    "prompt": "A box holds 24 red beads and 9 blue beads. How many beads are in the box? Give only the number.",
+    "answer": "33"
+  },
+  {
+    "id": "eval-arithmetic-4",
+    "split": "eval",
+    "kind": "arithmetic",
+    "group": "eval-arithmetic",
+    "prompt": "A box holds 32 red beads and 11 blue beads. How many beads are in the box? Give only the number.",
+    "answer": "43"
+  },
+  {
+    "id": "eval-arithmetic-5",
+    "split": "eval",
+    "kind": "arithmetic",
+    "group": "eval-arithmetic",
+    "prompt": "A box holds 15 red beads and 18 blue beads. How many beads are in the box? Give only the number.",
+    "answer": "33"
+  },
+  {
+    "id": "eval-arithmetic-6",
+    "split": "eval",
+    "kind": "arithmetic",
+    "group": "eval-arithmetic",
+    "prompt": "A box holds 27 red beads and 14 blue beads. How many beads are in the box? Give only the number.",
+    "answer": "41"
+  },
+  {
+    "id": "dev-logic-1",
+    "split": "dev",
+    "kind": "logic",
+    "group": "dev-logic",
+    "prompt": "All robins are birds. Pip is a robin. Is the conclusion true? Answer yes or no. Conclusion: Pip is a bird.",
+    "answer": "yes"
+  },
+  {
+    "id": "dev-logic-2",
+    "split": "dev",
+    "kind": "logic",
+    "group": "dev-logic",
+    "prompt": "All squares have four sides. This shape has three sides. Is the conclusion true? Answer yes or no. Conclusion: This shape is a square.",
+    "answer": "no"
+  },
+  {
+    "id": "dev-logic-3",
+    "split": "dev",
+    "kind": "logic",
+    "group": "dev-logic",
+    "prompt": "Every amber box is locked. Box A is amber. Is the conclusion true? Answer yes or no. Conclusion: Box A is locked.",
+    "answer": "yes"
+  },
+  {
+    "id": "dev-logic-4",
+    "split": "dev",
+    "kind": "logic",
+    "group": "dev-logic",
+    "prompt": "Every oak is a tree. A stone is not a tree. Is the conclusion true? Answer yes or no. Conclusion: A stone is an oak.",
+    "answer": "no"
+  },
+  {
+    "id": "eval-logic-1",
+    "split": "eval",
+    "kind": "logic",
+    "group": "eval-logic",
+    "prompt": "Rule: If a badge is silver, it grants entry. Fact: Badge K is silver. Question: Does badge K grant entry? Reply only yes or no.",
+    "answer": "yes"
+  },
+  {
+    "id": "eval-logic-2",
+    "split": "eval",
+    "kind": "logic",
+    "group": "eval-logic",
+    "prompt": "Rule: Anything frozen is cold. Fact: Object Z is not cold. Question: Is object Z frozen? Reply only yes or no.",
+    "answer": "no"
+  },
+  {
+    "id": "eval-logic-3",
+    "split": "eval",
+    "kind": "logic",
+    "group": "eval-logic",
+    "prompt": "Rule: Every pilot is trained. Fact: Sana is a pilot. Question: Is Sana trained? Reply only yes or no.",
+    "answer": "yes"
+  },
+  {
+    "id": "eval-logic-4",
+    "split": "eval",
+    "kind": "logic",
+    "group": "eval-logic",
+    "prompt": "Rule: All lanterns emit light. Fact: Item J emits no light. Question: Is item J a lantern? Reply only yes or no.",
+    "answer": "no"
+  },
+  {
+    "id": "eval-logic-5",
+    "split": "eval",
+    "kind": "logic",
+    "group": "eval-logic",
+    "prompt": "Rule: Every sealed jar is closed. Fact: Jar M is sealed. Question: Is jar M closed? Reply only yes or no.",
+    "answer": "yes"
+  },
+  {
+    "id": "eval-logic-6",
+    "split": "eval",
+    "kind": "logic",
+    "group": "eval-logic",
+    "prompt": "Rule: All triangles have three sides. Fact: Shape F has five sides. Question: Is shape F a triangle? Reply only yes or no.",
+    "answer": "no"
+  }
+]
