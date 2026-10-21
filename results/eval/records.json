@@ -1,0 +1,3434 @@
+[
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.07975745899602771,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-1",
+    "output": "positive",
+    "router_seconds": 2.1329979063011706e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 2,
+    "total_seconds": 0.07977471699996386
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.1382800639985362,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-1",
+    "output": "positive",
+    "router_seconds": 1.0279982234351337e-06,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 2,
+    "total_seconds": 0.1382877729993197
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.056880721997004,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-1",
+    "output": "positive",
+    "router_seconds": 1.65300298249349e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 2,
+    "total_seconds": 0.056889211999077816
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.057582962996093556,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-1",
+    "output": "positive",
+    "router_seconds": 5.495996447280049e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.05759591500100214
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.13866918200073997,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-2",
+    "output": "negative",
+    "router_seconds": 1.0219955584034324e-06,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 2,
+    "total_seconds": 0.13867610500165028
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.056376451000687666,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-2",
+    "output": "negative",
+    "router_seconds": 1.839995093178004e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 2,
+    "total_seconds": 0.05638423599884845
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.06032903499726672,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-2",
+    "output": "negative",
+    "router_seconds": 2.8080030460841954e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.06033867500082124
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.06337971099856077,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-2",
+    "output": "negative",
+    "router_seconds": 1.97399640455842e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 2,
+    "total_seconds": 0.06338814899936551
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.061471711997000966,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-3",
+    "output": "positive",
+    "router_seconds": 1.400003384333104e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 2,
+    "total_seconds": 0.06147817400051281
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.05977884400635958,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-3",
+    "output": "positive",
+    "router_seconds": 2.548003976698965e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.05978738500562031
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.06232722300046589,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-3",
+    "output": "positive",
+    "router_seconds": 7.370035746134818e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 2,
+    "total_seconds": 0.06233300900203176
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.1400276920030592,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-3",
+    "output": "positive",
+    "router_seconds": 8.380011422559619e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 2,
+    "total_seconds": 0.14003386900003534
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.06782471099722898,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-4",
+    "output": "negative",
+    "router_seconds": 1.8079954315908253e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.06783237600029679
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.0793535070042708,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-4",
+    "output": "negative",
+    "router_seconds": 9.049981599673629e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 2,
+    "total_seconds": 0.07936136700300267
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.13241435100644594,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-4",
+    "output": "negative",
+    "router_seconds": 7.529961294494569e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 2,
+    "total_seconds": 0.13242032999551157
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.06829944699711632,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-4",
+    "output": "negative",
+    "router_seconds": 1.6560006770305336e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 2,
+    "total_seconds": 0.0683066380006494
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.06335983199824113,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-5",
+    "output": "positive",
+    "router_seconds": 6.729969754815102e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 2,
+    "total_seconds": 0.06336648999422323
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.1533526310013258,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-5",
+    "output": "positive",
+    "router_seconds": 7.709968485869467e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 2,
+    "total_seconds": 0.15335879499616567
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.35757172200101195,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-5",
+    "output": "positive",
+    "router_seconds": 1.4239994925446808e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 2,
+    "total_seconds": 0.3575795099968673
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.10039641900220886,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-5",
+    "output": "positive",
+    "router_seconds": 1.6870035324245691e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.10040468700026395
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.13150196700007655,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-6",
+    "output": "negative",
+    "router_seconds": 8.040005923248827e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 2,
+    "total_seconds": 0.13150917700113496
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.06696377500338713,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-6",
+    "output": "negative",
+    "router_seconds": 1.2140008038841188e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 2,
+    "total_seconds": 0.06697124299535062
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.059873066005820874,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-6",
+    "output": "negative",
+    "router_seconds": 1.7240017768926919e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.0598806690031779
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.058456238999497145,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-6",
+    "output": "negative",
+    "router_seconds": 7.419948815368116e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 2,
+    "total_seconds": 0.05846226099674823
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.22826224500022363,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-1",
+    "output": "The office value of Tessa is office value.",
+    "router_seconds": 1.2989985407330096e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 13,
+    "total_seconds": 0.22827135099942097
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.2148689559980994,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-1",
+    "output": "The office value of Tessa is office value.",
+    "router_seconds": 1.791006070561707e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 13,
+    "total_seconds": 0.21487632500065956
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.31354821699642343,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-1",
+    "output": "The office value of Tessa is office value.",
+    "router_seconds": 7.919952622614801e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 13,
+    "total_seconds": 0.31355424999492243
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.3598220229978324,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-1",
+    "output": "Berlin is the office of the analyst.",
+    "router_seconds": 7.979979272931814e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 9,
+    "total_seconds": 0.3598284190011327
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.21770204699714668,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-2",
+    "output": "Raja is an analyst in the office of Raja.",
+    "router_seconds": 1.5469995560124516e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 13,
+    "total_seconds": 0.21770931499486323
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.2083904530009022,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-2",
+    "output": "Raja is an analyst in the office of Raja.",
+    "router_seconds": 7.72000930737704e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 13,
+    "total_seconds": 0.20839666600659257
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.34542074999626493,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-2",
+    "output": "Raji is an analyst in Delhi.",
+    "router_seconds": 7.330017979256809e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 9,
+    "total_seconds": 0.34542638799757697
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.20442094699683366,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-2",
+    "output": "Raja is an analyst in the office of Raja.",
+    "router_seconds": 1.4899997040629387e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 13,
+    "total_seconds": 0.20442807299696142
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.299737745001039,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-3",
+    "output": "Office value is 0 and 0 for Iris and his role is an analyst.",
+    "router_seconds": 7.939961506053805e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 20,
+    "total_seconds": 0.29974488799780374
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.34836663600435713,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-3",
+    "output": "Tokyo is the office of the analyst.",
+    "router_seconds": 8.200004231184721e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 9,
+    "total_seconds": 0.3483721290031099
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.2957273840002017,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-3",
+    "output": "Office value is 0 and 0 for Iris and his role is an analyst.",
+    "router_seconds": 1.544001861475408e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 20,
+    "total_seconds": 0.29573401400557486
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.2939757229978568,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-3",
+    "output": "Office value is 0 and 0 for Iris and his role is an analyst.",
+    "router_seconds": 1.3669996405951679e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 20,
+    "total_seconds": 0.29398172400397016
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.342650530001265,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-4",
+    "output": "Leon is an analyst in Madrid.",
+    "router_seconds": 7.589987944811583e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 9,
+    "total_seconds": 0.3426557970014983
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.15231899700302165,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-4",
+    "output": "Leon is an analyst in Madrid.",
+    "router_seconds": 1.5499972505494952e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 9,
+    "total_seconds": 0.15232598700094968
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.14924804100155598,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-4",
+    "output": "Leon is an analyst in Madrid.",
+    "router_seconds": 1.4940014807507396e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 9,
+    "total_seconds": 0.1492544930006261
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.1522651049963315,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-4",
+    "output": "Leon is an analyst in Madrid.",
+    "router_seconds": 8.00006091594696e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 9,
+    "total_seconds": 0.15227130100538488
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.20645253999828128,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-5",
+    "output": "Office value is 0 and the role is an analysis.",
+    "router_seconds": 1.14399881567806e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 13,
+    "total_seconds": 0.2064590949958074
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.20057350100250915,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-5",
+    "output": "Office value is 0 and the role is an analysis.",
+    "router_seconds": 1.4140023267827928e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 13,
+    "total_seconds": 0.2005804590007756
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.20792268299555872,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-5",
+    "output": "Office value is 0 and the role is an analysis.",
+    "router_seconds": 7.690032362006605e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 13,
+    "total_seconds": 0.2079288099994301
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.3862102060011239,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-5",
+    "output": "Nora worked as an analyst in Dublin.",
+    "router_seconds": 8.850038284435868e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 10,
+    "total_seconds": 0.3862164890015265
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.23718735500006005,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-6",
+    "output": "Evan's office is in Boston and he is an analyst.",
+    "router_seconds": 1.6849953681230545e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 15,
+    "total_seconds": 0.23719499399885535
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.23142235300474567,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-6",
+    "output": "Evan's office is in Boston and he is an analyst.",
+    "router_seconds": 1.0709991329349577e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 15,
+    "total_seconds": 0.2314293249946786
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.3142413440000382,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-6",
+    "output": "Evan was an analyst in Boston.",
+    "router_seconds": 7.62003764975816e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 8,
+    "total_seconds": 0.3142470200036769
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.24315086800197605,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-6",
+    "output": "Evan's office is in Boston and he is an analyst.",
+    "router_seconds": 1.467997208237648e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 15,
+    "total_seconds": 0.2431573939975351
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.37318334599694936,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-1",
+    "output": "13 red beads / 2 = 16 blue beads. There are 13 red beads / 2 = 16 blue beads.",
+    "router_seconds": 6.900008884258568e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 24,
+    "total_seconds": 0.3731895560049452
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.8157745040007285,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-1",
+    "output": "13 + 8 = 21 beads. The box holds 21 + 13 = 42 beads. The number of beads in the box",
+    "router_seconds": 7.679991540499032e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 24,
+    "total_seconds": 0.8157807910029078
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.37730200700025307,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-1",
+    "output": "13 red beads / 2 = 16 blue beads. There are 13 red beads / 2 = 16 blue beads.",
+    "router_seconds": 1.3850003597326577e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 24,
+    "total_seconds": 0.37730901400209405
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.3780646700033685,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-1",
+    "output": "13 red beads / 2 = 16 blue beads. There are 13 red beads / 2 = 16 blue beads.",
+    "router_seconds": 2.1220039343461394e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 24,
+    "total_seconds": 0.37807286900351755
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.8208584919993882,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-2",
+    "output": "17 + 6 = 21 beads. The total number of beads in the box is 21 + 6 = 26 beads. The",
+    "router_seconds": 7.109993021003902e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 24,
+    "total_seconds": 0.8208643990001292
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.35671558199828723,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-2",
+    "output": "6 blue beads are 17 - 6 = 14 beads. The total number of beads in the box is 17 + 14",
+    "router_seconds": 2.2320018615573645e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 24,
+    "total_seconds": 0.35672516799968434
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.36503721400367795,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-2",
+    "output": "6 blue beads are 17 - 6 = 14 beads. The total number of beads in the box is 17 + 14",
+    "router_seconds": 1.567997969686985e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 24,
+    "total_seconds": 0.3650439209959586
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.35715417099709157,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-2",
+    "output": "6 blue beads are 17 - 6 = 14 beads. The total number of beads in the box is 17 + 14",
+    "router_seconds": 7.470007403753698e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 24,
+    "total_seconds": 0.35715995500504505
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.36332789799780585,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-3",
+    "output": "24 red beads / 9 blue beads = 84 beads. The total number of beads in the box is 84",
+    "router_seconds": 2.0559964468702674e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 24,
+    "total_seconds": 0.3633348879957339
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.35030458500114037,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-3",
+    "output": "24 red beads / 9 blue beads = 84 beads. The total number of beads in the box is 84",
+    "router_seconds": 1.4700053725391626e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 24,
+    "total_seconds": 0.3503121980029391
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.35379200099851005,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-3",
+    "output": "24 red beads / 9 blue beads = 84 beads. The total number of beads in the box is 84",
+    "router_seconds": 9.370050975121558e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 24,
+    "total_seconds": 0.3537977240048349
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.8267313649994321,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-3",
+    "output": "24 + 9 = 30 beads. The total number of beads in the box is 30 + 24 = 54 beads. The",
+    "router_seconds": 8.680071914568543e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 24,
+    "total_seconds": 0.826737243005482
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.06942849999904865,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-4",
+    "output": "12",
+    "router_seconds": 1.6330013750120997e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.06943578299978981
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.0603325539996149,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-4",
+    "output": "12",
+    "router_seconds": 7.370035746134818e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 2,
+    "total_seconds": 0.06033841799944639
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.8198684599992703,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-4",
+    "output": "32 + 11 = 33 beads. The total number of beads in the box is 33 + 32 = 66 beads.",
+    "router_seconds": 1.2759992387145758e-06,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 24,
+    "total_seconds": 0.819874824002909
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.053730496001662686,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-4",
+    "output": "12",
+    "router_seconds": 1.6119956853799522e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 2,
+    "total_seconds": 0.0537368779987446
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.3495884029980516,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-5",
+    "output": "15 red beads / 2 = 15 blue beads. 18 blue beads / 2 = 6 blue beads. In total",
+    "router_seconds": 7.280032150447369e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 24,
+    "total_seconds": 0.3495946340044611
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.8031032189974212,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-5",
+    "output": "15 + 18 = 35 beads. 35 + 15 = 45 beads. 45 = 105 beads. The answer: ",
+    "router_seconds": 7.820053724572062e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 24,
+    "total_seconds": 0.8031093760000658
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.3569644219969632,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-5",
+    "output": "15 red beads / 2 = 15 blue beads. 18 blue beads / 2 = 6 blue beads. In total",
+    "router_seconds": 1.5959958545863628e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 24,
+    "total_seconds": 0.3569721559979371
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.357980591004889,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-5",
+    "output": "15 red beads / 2 = 15 blue beads. 18 blue beads / 2 = 6 blue beads. In total",
+    "router_seconds": 1.6300036804750562e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 24,
+    "total_seconds": 0.3579871859983541
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.5508525480036042,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-6",
+    "output": "27 + 14 = 35 beads. 35 / 2 = 15 beads.",
+    "router_seconds": 8.089991752058268e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 16,
+    "total_seconds": 0.5508593730046414
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.346270160000131,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-6",
+    "output": "27 red beads / 2 = 14 blue beads. The total number of beads in the box is 27 + 14 =",
+    "router_seconds": 1.296000846195966e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 24,
+    "total_seconds": 0.3462775150037487
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.35369529900344787,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-6",
+    "output": "27 red beads / 2 = 14 blue beads. The total number of beads in the box is 27 + 14 =",
+    "router_seconds": 1.4739998732693493e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 24,
+    "total_seconds": 0.35370223200152395
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.35314135500084376,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-6",
+    "output": "27 red beads / 2 = 14 blue beads. The total number of beads in the box is 27 + 14 =",
+    "router_seconds": 8.150018402375281e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 24,
+    "total_seconds": 0.3531470990055823
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.13234828900021967,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-1",
+    "output": "yes",
+    "router_seconds": 1.095999323297292e-06,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 2,
+    "total_seconds": 0.132354009001574
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.13170158800494391,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-1",
+    "output": "yes",
+    "router_seconds": 1.6220001270994544e-06,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.13170810700103175
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.05710581700259354,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-1",
+    "output": "yes",
+    "router_seconds": 1.000997144728899e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 2,
+    "total_seconds": 0.05711179599893512
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.1359779440026614,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-1",
+    "output": "yes",
+    "router_seconds": 7.819980964995921e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 2,
+    "total_seconds": 0.13598439899942605
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.140733395004645,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-2",
+    "output": "no",
+    "router_seconds": 1.5300029190257192e-06,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.14074046799942153
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.054784063999250066,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-2",
+    "output": "no",
+    "router_seconds": 7.359994924627244e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 2,
+    "total_seconds": 0.05479034099698765
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.12969173500459874,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-2",
+    "output": "no",
+    "router_seconds": 7.269991328939795e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 2,
+    "total_seconds": 0.12969759499537759
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.06074574000376742,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-2",
+    "output": "no",
+    "router_seconds": 1.4210017980076373e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 2,
+    "total_seconds": 0.06075209299888229
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.05512791500223102,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-3",
+    "output": "yes",
+    "router_seconds": 7.019989425316453e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 2,
+    "total_seconds": 0.055133309004304465
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.12825405400508316,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-3",
+    "output": "yes",
+    "router_seconds": 1.0650037438608706e-06,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 2,
+    "total_seconds": 0.12826024099922506
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.05798831100401003,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-3",
+    "output": "yes",
+    "router_seconds": 1.610002072993666e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 2,
+    "total_seconds": 0.05799474400555482
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.14217193399963435,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-3",
+    "output": "yes",
+    "router_seconds": 1.405001967214048e-06,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.1421780390010099
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.1389141899999231,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-4",
+    "output": "no",
+    "router_seconds": 7.370035746134818e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 2,
+    "total_seconds": 0.13891984400106594
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.05993715699878521,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-4",
+    "output": "no",
+    "router_seconds": 1.3220051187090576e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 2,
+    "total_seconds": 0.05994348400417948
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.13498521500150673,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-4",
+    "output": "no",
+    "router_seconds": 1.4659963198937476e-06,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.13499182800296694
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.05529317099717446,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-4",
+    "output": "no",
+    "router_seconds": 7.499984349124134e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 2,
+    "total_seconds": 0.05529980899882503
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.056715206999797374,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-5",
+    "output": "yes",
+    "router_seconds": 1.209999027196318e-06,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 2,
+    "total_seconds": 0.05672158699599095
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.12831691399333067,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-5",
+    "output": "yes",
+    "router_seconds": 1.377993612550199e-06,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.12832384499779437
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.061574078994453885,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-5",
+    "output": "yes",
+    "router_seconds": 7.650014595128596e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 2,
+    "total_seconds": 0.061579923996760044
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.13675781300116796,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-5",
+    "output": "yes",
+    "router_seconds": 7.929993444122374e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 2,
+    "total_seconds": 0.13676348300214158
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.12962979300209554,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-6",
+    "output": "no",
+    "router_seconds": 1.3669996405951679e-06,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.12963611400482478
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.05566367699793773,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-6",
+    "output": "no",
+    "router_seconds": 6.560003384947777e-07,
+    "scenario": "normal",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "small",
+    "tokens": 2,
+    "total_seconds": 0.055669572997430805
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.13846037100302055,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-6",
+    "output": "no",
+    "router_seconds": 9.990035323426127e-07,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "base",
+    "tokens": 2,
+    "total_seconds": 0.1384663360004197
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.13928938200115226,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-6",
+    "output": "no",
+    "router_seconds": 1.1219963198527694e-06,
+    "scenario": "normal",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "length",
+    "tokens": 2,
+    "total_seconds": 0.13929578899842454
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 5.63000503461808e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.12613979900197592,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-1",
+    "output": "positive",
+    "router_seconds": 1.4800025383010507e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.12615372700383887
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 2.7940041036345065e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.1280062350051594,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-2",
+    "output": "negative",
+    "router_seconds": 1.5820041880942881e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.12801683800353203
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 2.1880041458643973e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.1204214819954359,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-3",
+    "output": "positive",
+    "router_seconds": 1.3509998098015785e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.12043123599869432
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 2.6859997888095677e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.12242808899463853,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-4",
+    "output": "negative",
+    "router_seconds": 1.6500052879564464e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.12243831800151384
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 2.5040062610059977e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.1226598740031477,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-5",
+    "output": "positive",
+    "router_seconds": 1.571999746374786e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.12267020000581397
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 2.5289991754107177e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.11790124499384547,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-6",
+    "output": "negative",
+    "router_seconds": 1.600004907231778e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.11791221699968446
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 2.2569947759620845e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.34618232100183377,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-1",
+    "output": "Berlin is the office of the analyst.",
+    "router_seconds": 1.791995600797236e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 9,
+    "total_seconds": 0.3461932989957859
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 3.5199991543777287e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.3669913319972693,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-2",
+    "output": "Raji is an analyst in Delhi.",
+    "router_seconds": 1.3970056897960603e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 9,
+    "total_seconds": 0.36700334700435633
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 2.1839950932189822e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.3408169460017234,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-3",
+    "output": "Tokyo is the office of the analyst.",
+    "router_seconds": 1.405998773407191e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 9,
+    "total_seconds": 0.34082685499743093
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 2.4600012693554163e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.34389768399705645,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-4",
+    "output": "Leon is an analyst in Madrid.",
+    "router_seconds": 1.8569990061223507e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 9,
+    "total_seconds": 0.34390820999396965
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 2.1839950932189822e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.3690656120015774,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-5",
+    "output": "Nora worked as an analyst in Dublin.",
+    "router_seconds": 1.5800032997503877e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 10,
+    "total_seconds": 0.3690756460055127
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 2.397995558567345e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.3096278010052629,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-6",
+    "output": "Evan was an analyst in Boston.",
+    "router_seconds": 1.6310004866681993e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 8,
+    "total_seconds": 0.3096381930008647
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 1.9049984985031188e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.8175474000017857,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-1",
+    "output": "13 + 8 = 21 beads. The box holds 21 + 13 = 42 beads. The number of beads in the box",
+    "router_seconds": 1.4750039554201066e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 24,
+    "total_seconds": 0.8175573780026753
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 1.977001375053078e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 1.4684749380030553,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-2",
+    "output": "17 + 6 = 21 beads. The total number of beads in the box is 21 + 6 = 26 beads. The",
+    "router_seconds": 1.6459962353110313e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 24,
+    "total_seconds": 1.46848640099779
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 2.877000952139497e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.8898718549971818,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-3",
+    "output": "24 + 9 = 30 beads. The total number of beads in the box is 30 + 24 = 54 beads. The",
+    "router_seconds": 2.0890001906082034e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 24,
+    "total_seconds": 0.8898864289949415
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 2.5949993869289756e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.9425294730026508,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-4",
+    "output": "32 + 11 = 33 beads. The total number of beads in the box is 33 + 32 = 66 beads.",
+    "router_seconds": 1.8400023691356182e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 24,
+    "total_seconds": 0.9425415639998391
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 2.006003342103213e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.8572286529961275,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-5",
+    "output": "15 + 18 = 35 beads. 35 + 15 = 45 beads. 45 = 105 beads. The answer: ",
+    "router_seconds": 1.8190039554610848e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 24,
+    "total_seconds": 0.8572385730003589
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 2.3719985620118678e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 0.5505312059976859,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-6",
+    "output": "27 + 14 = 35 beads. 35 / 2 = 15 beads.",
+    "router_seconds": 1.4670004020445049e-06,
+    "scenario": "small_down",
+    "selected": "small",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 16,
+    "total_seconds": 0.5505420910048997
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.13244154000130948,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-1",
+    "output": "yes",
+    "router_seconds": 1.7950005712918937e-06,
+    "scenario": "small_down",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.1324480759940343
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.1322658680001041,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-2",
+    "output": "no",
+    "router_seconds": 1.4459947124123573e-06,
+    "scenario": "small_down",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.13227269599883584
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.13579214199853595,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-3",
+    "output": "yes",
+    "router_seconds": 1.620996044948697e-06,
+    "scenario": "small_down",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.13579883399506798
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.13196983899979386,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-4",
+    "output": "no",
+    "router_seconds": 1.8350037862546742e-06,
+    "scenario": "small_down",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.13197700599994278
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.13561257000401383,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-5",
+    "output": "yes",
+    "router_seconds": 1.881999196484685e-06,
+    "scenario": "small_down",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.13561979799851542
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 0.1413163179968251,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-6",
+    "output": "no",
+    "router_seconds": 1.6560006770305336e-06,
+    "scenario": "small_down",
+    "selected": "base",
+    "served": "base",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.1413229020035942
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.05213579200062668,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-1",
+    "output": "positive",
+    "router_seconds": 1.3280005077831447e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.05214251099823741
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.05944897899462376,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-2",
+    "output": "negative",
+    "router_seconds": 2.000997483264655e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.05945650099602062
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.05479815899889218,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-3",
+    "output": "positive",
+    "router_seconds": 1.2789969332516193e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.054804425999464
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.05323407200194197,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-4",
+    "output": "negative",
+    "router_seconds": 1.5589976101182401e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.05324092400405789
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.05350835300487233,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-5",
+    "output": "positive",
+    "router_seconds": 1.7179991118609905e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.053516145002504345
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.060443842005042825,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-sentiment-6",
+    "output": "negative",
+    "router_seconds": 1.505999534856528e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.06045127099787351
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.20187495799473254,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-1",
+    "output": "The office value of Tessa is office value.",
+    "router_seconds": 1.715001417323947e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 13,
+    "total_seconds": 0.20188162200065563
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.20821782099665143,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-2",
+    "output": "Raja is an analyst in the office of Raja.",
+    "router_seconds": 1.6039994079619646e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 13,
+    "total_seconds": 0.20822430800035363
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.30952711200370686,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-3",
+    "output": "Office value is 0 and 0 for Iris and his role is an analyst.",
+    "router_seconds": 1.5789992175996304e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 20,
+    "total_seconds": 0.30953428000066197
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.16394112900161417,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-4",
+    "output": "Leon is an analyst in Madrid.",
+    "router_seconds": 1.5559999155811965e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 9,
+    "total_seconds": 0.16394835399842123
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.20634323099511676,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-5",
+    "output": "Office value is 0 and the role is an analysis.",
+    "router_seconds": 1.410997356288135e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 13,
+    "total_seconds": 0.20634969900129363
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.22816554800374433,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-extraction-6",
+    "output": "Evan's office is in Boston and he is an analyst.",
+    "router_seconds": 1.6229969332925975e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 15,
+    "total_seconds": 0.228172025999811
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.35473551700124517,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-1",
+    "output": "13 red beads / 2 = 16 blue beads. There are 13 red beads / 2 = 16 blue beads.",
+    "router_seconds": 1.6920021153055131e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 24,
+    "total_seconds": 0.35474280200287467
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.36233977200026857,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-2",
+    "output": "6 blue beads are 17 - 6 = 14 beads. The total number of beads in the box is 17 + 14",
+    "router_seconds": 1.5569967217743397e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 24,
+    "total_seconds": 0.36234598900045967
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.36147904700192157,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-3",
+    "output": "24 red beads / 9 blue beads = 84 beads. The total number of beads in the box is 84",
+    "router_seconds": 1.4089964679442346e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 24,
+    "total_seconds": 0.3614856049971422
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.05684255200321786,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-4",
+    "output": "12",
+    "router_seconds": 1.4369943528436124e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.05684887299867114
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.3824330759962322,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-5",
+    "output": "15 red beads / 2 = 15 blue beads. 18 blue beads / 2 = 6 blue beads. In total",
+    "router_seconds": 1.5589976101182401e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 24,
+    "total_seconds": 0.3824397920034244
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 0.37947279200307094,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-arithmetic-6",
+    "output": "27 red beads / 2 = 14 blue beads. The total number of beads in the box is 27 + 14 =",
+    "router_seconds": 1.5939949662424624e-06,
+    "scenario": "base_down",
+    "selected": "small",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 24,
+    "total_seconds": 0.37947940699814353
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 2.316002792213112e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "small",
+        "seconds": 0.07425178099947516,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-1",
+    "output": "yes",
+    "router_seconds": 1.5650002751499414e-06,
+    "scenario": "base_down",
+    "selected": "base",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.07426192500133766
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 2.1050000214017928e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "small",
+        "seconds": 0.06348734500352293,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-2",
+    "output": "no",
+    "router_seconds": 1.5240002539940178e-06,
+    "scenario": "base_down",
+    "selected": "base",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.06349756000417983
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 2.3650063667446375e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "small",
+        "seconds": 0.06112015600228915,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-3",
+    "output": "yes",
+    "router_seconds": 1.6900012269616127e-06,
+    "scenario": "base_down",
+    "selected": "base",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.06113022199861007
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 2.2320018615573645e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "small",
+        "seconds": 0.05894235899904743,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-4",
+    "output": "no",
+    "router_seconds": 1.4499964891001582e-06,
+    "scenario": "base_down",
+    "selected": "base",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.05895251599577023
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 2.0609950297512114e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "small",
+        "seconds": 0.06845218600210501,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-5",
+    "output": "yes",
+    "router_seconds": 1.4319957699626684e-06,
+    "scenario": "base_down",
+    "selected": "base",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.06846188000054099
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 2.36400228459388e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "small",
+        "seconds": 0.10608995300572133,
+        "status": "ok"
+      }
+    ],
+    "id": "eval-logic-6",
+    "output": "no",
+    "router_seconds": 1.6320045688189566e-06,
+    "scenario": "base_down",
+    "selected": "base",
+    "served": "small",
+    "status": "ok",
+    "strategy": "fitted",
+    "tokens": 2,
+    "total_seconds": 0.10610051200637827
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 3.216002369299531e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 3.0480005079880357e-06,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-sentiment-1",
+    "output": "",
+    "router_seconds": 2.758002665359527e-06,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 1.6639001842122525e-05
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 1.3859971659258008e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 7.550042937509716e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-sentiment-2",
+    "output": "",
+    "router_seconds": 1.043998054228723e-06,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 7.790004019625485e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 9.939976735040545e-07,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 6.33997842669487e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-sentiment-3",
+    "output": "",
+    "router_seconds": 8.349961717613041e-07,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 6.068999937269837e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 9.929935913532972e-07,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 7.250055205076933e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-sentiment-4",
+    "output": "",
+    "router_seconds": 7.999988156370819e-07,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 6.032998498994857e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 2.8849972295574844e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 9.77001036517322e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-sentiment-5",
+    "output": "",
+    "router_seconds": 2.0280058379285038e-06,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 1.3425000361166894e-05
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 1.3429962564259768e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 7.199996616691351e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-sentiment-6",
+    "output": "",
+    "router_seconds": 1.2349992175586522e-06,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 8.042996341828257e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 1.1420052032917738e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 6.450063665397465e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-extraction-1",
+    "output": "",
+    "router_seconds": 1.2969976523891091e-06,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 6.803995347581804e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 9.499999578110874e-07,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 5.499969120137393e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-extraction-2",
+    "output": "",
+    "router_seconds": 9.310024324804544e-07,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 6.136004230938852e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 1.091000740416348e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 6.210029823705554e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-extraction-3",
+    "output": "",
+    "router_seconds": 9.899958968162537e-07,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 6.096001015976071e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 1.1040028766728938e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 7.010021363385022e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-extraction-4",
+    "output": "",
+    "router_seconds": 9.150026016868651e-07,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 6.12800067756325e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 9.829964255914092e-07,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 6.00004568696022e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-extraction-5",
+    "output": "",
+    "router_seconds": 9.239956852979958e-07,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 5.860994860995561e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 9.930008673109114e-07,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 6.409973138943315e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-extraction-6",
+    "output": "",
+    "router_seconds": 9.270006557926536e-07,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 5.676003638654947e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 1.034000888466835e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 5.920010153204203e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-arithmetic-1",
+    "output": "",
+    "router_seconds": 9.520008461549878e-07,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 5.800997314509004e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 8.630013326182961e-07,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 5.629990482702851e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-arithmetic-2",
+    "output": "",
+    "router_seconds": 9.580035111866891e-07,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 5.703004717361182e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 1.072003215085715e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 6.269983714446425e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-arithmetic-3",
+    "output": "",
+    "router_seconds": 9.560026228427887e-07,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 5.8730001910589635e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 1.2609962141141295e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 6.740010576322675e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-arithmetic-4",
+    "output": "",
+    "router_seconds": 1.0039948392659426e-06,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 6.6739958128891885e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 1.0849980753846467e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 7.38997186999768e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-arithmetic-5",
+    "output": "",
+    "router_seconds": 1.0390067473053932e-06,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 1.5161000192165375e-05
+  },
+  {
+    "attempts": [
+      {
+        "model": "small",
+        "seconds": 1.1369993444532156e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "base",
+        "seconds": 6.810005288571119e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-arithmetic-6",
+    "output": "",
+    "router_seconds": 1.1110023478977382e-06,
+    "scenario": "both_down",
+    "selected": "small",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 6.44200190436095e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 1.0570001904852688e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "small",
+        "seconds": 6.150003173388541e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-logic-1",
+    "output": "",
+    "router_seconds": 1.052998413797468e-06,
+    "scenario": "both_down",
+    "selected": "base",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 6.0780002968385816e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 1.0010044206865132e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "small",
+        "seconds": 5.95995516050607e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-logic-2",
+    "output": "",
+    "router_seconds": 9.86001396086067e-07,
+    "scenario": "both_down",
+    "selected": "base",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 5.6919961934909225e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 1.1419979273341596e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "small",
+        "seconds": 6.569971446879208e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-logic-3",
+    "output": "",
+    "router_seconds": 9.91996785160154e-07,
+    "scenario": "both_down",
+    "selected": "base",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 6.027999916113913e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 9.929935913532972e-07,
+        "status": "unavailable"
+      },
+      {
+        "model": "small",
+        "seconds": 6.999980541877449e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-logic-4",
+    "output": "",
+    "router_seconds": 9.650029824115336e-07,
+    "scenario": "both_down",
+    "selected": "base",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 5.831003363709897e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 1.1349984561093152e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "small",
+        "seconds": 6.549962563440204e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-logic-5",
+    "output": "",
+    "router_seconds": 1.0060030035674572e-06,
+    "scenario": "both_down",
+    "selected": "base",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 6.6400025389157236e-06
+  },
+  {
+    "attempts": [
+      {
+        "model": "base",
+        "seconds": 1.0410003596916795e-06,
+        "status": "unavailable"
+      },
+      {
+        "model": "small",
+        "seconds": 6.319969543255866e-07,
+        "status": "unavailable"
+      }
+    ],
+    "id": "eval-logic-6",
+    "output": "",
+    "router_seconds": 9.369978215545416e-07,
+    "scenario": "both_down",
+    "selected": "base",
+    "served": null,
+    "status": "unavailable",
+    "strategy": "fitted",
+    "tokens": 0,
+    "total_seconds": 5.788999260403216e-06
+  }
+]

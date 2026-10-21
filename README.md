@@ -90,7 +90,56 @@ no conversion from CPU seconds to dollars. Billed API cost is zero; energy is un
 
 ## Results
 
-Results will be recorded after the frozen experiment completes.
+The frozen policy chose small for sentiment, extraction and arithmetic, and base for logic.
+All four strategies scored 12/24. The fitted policy was slower than always-small
+and offered no quality improvement on held-out tasks. This is a negative result.
+
+| Normal strategy | Correct / 24 | Request total (s) | Router total (ms) | Generated tokens |
+| --- | ---: | ---: | ---: | ---: |
+| small | 12 | 4.006823 | 0.021426 | 229 |
+| base | 12 | 8.376350 | 0.020290 | 214 |
+| length | 12 | 4.359402 | 0.035640 | 229 |
+| fitted | 12 | 4.401570 | 0.044034 | 229 |
+
+Per-type held-out quality and degradation relative to always-base:
+
+| Task type | Small | Base | Length | Fitted | Fitted minus base |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| sentiment | 6/6 | 6/6 | 6/6 | 6/6 | 0 pp |
+| extraction | 0/6 | 0/6 | 0/6 | 0/6 | 0 pp |
+| arithmetic | 0/6 | 0/6 | 0/6 | 0/6 | 0 pp |
+| logic | 6/6 | 6/6 | 6/6 | 6/6 | 0 pp |
+
+Zero relative degradation hides poor absolute performance: both models failed every
+extraction and arithmetic item. No prompts, labels or routing rules were revised after
+evaluation. Router overhead is tiny here, and timing differences are single-run
+observations rather than stable performance estimates.
+
+| Simulated local outage, fitted policy | Correct / 24 | Unavailable | Request total (s) |
+| --- | ---: | ---: | ---: |
+| small_down | 12 | 0 | 9.149960 |
+| base_down | 12 | 0 | 3.981469 |
+| both_down | 0 | 24 | 0.000176 |
+
+Single-adapter outages served all 24 requests through the available model. Both
+adapters unavailable produced 24 explicit failures. These are immediate injected
+exceptions, so they do not estimate timeout or network retry costs.
+
+Development inference took 3.600025 s and policy fitting took
+0.124500 ms. Full development wall time was 37.163430 s;
+full evaluation wall time was 41.797864 s, including model setup,
+hashing, warmup, all four strategies, all outage trials, and evidence recording.
+Loading and warmup are separately itemized in each report. These full-run costs
+are not amortized into the per-request table.
+
+Hardware: Intel Xeon W-3223 at 3.50 GHz, 16 logical CPUs, 48 GiB RAM,
+macOS 26.7.1 x86_64, Python 3.11.13, two inference threads. No GPU was used.
+Both runs used the shared exclusive benchmark lock. Billed API cost: $0.
+Electricity, energy, peak memory and general production savings were not measured.
+
+Inspect [development evidence](results/dev/report.json), the [frozen policy](results/dev/policy.json),
+[held-out report](results/eval/report.json), and [all held-out request records](results/eval/records.json).
+Raw `trace.jsonl` files are incremental copies of the corresponding `records.json` observations.
 
 ## Testing
 
