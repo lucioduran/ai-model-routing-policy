@@ -249,11 +249,14 @@ class EvidenceTests(unittest.TestCase):
     def test_environment(self):
         self.patch_env.stop()
         with (
-            patch("platform.processor", return_value="test CPU"),
-            patch("platform.platform", return_value="test OS"),
+            patch.object(cli, "platform") as host,
             patch("importlib.metadata.version", return_value="1.0"),
             patch("subprocess.check_output", side_effect=["abc\n", ""]),
         ):
+            host.python_version.return_value = "3.11.9"
+            host.platform.return_value = "test OS"
+            host.machine.return_value = "test machine"
+            host.processor.return_value = "test CPU"
             info = cli.environment()
         self.assertEqual(info["git_commit"], "abc")
         self.assertFalse(info["git_dirty"])
