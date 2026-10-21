@@ -1,0 +1,226 @@
+[
+  {
+    "id": "dev-sentiment-1",
+    "model": "small",
+    "output": "positive",
+    "seconds": 0.05823678700107848,
+    "tokens": 2
+  },
+  {
+    "id": "dev-sentiment-1",
+    "model": "base",
+    "output": "positive",
+    "seconds": 0.14783983200322837,
+    "tokens": 2
+  },
+  {
+    "id": "dev-sentiment-2",
+    "model": "base",
+    "output": "negative",
+    "seconds": 0.1954040709970286,
+    "tokens": 2
+  },
+  {
+    "id": "dev-sentiment-2",
+    "model": "small",
+    "output": "negative",
+    "seconds": 0.056928919002530165,
+    "tokens": 2
+  },
+  {
+    "id": "dev-sentiment-3",
+    "model": "small",
+    "output": "positive",
+    "seconds": 0.052350666002894286,
+    "tokens": 2
+  },
+  {
+    "id": "dev-sentiment-3",
+    "model": "base",
+    "output": "positive",
+    "seconds": 0.14560788200469688,
+    "tokens": 2
+  },
+  {
+    "id": "dev-sentiment-4",
+    "model": "base",
+    "output": "negative",
+    "seconds": 0.1523514439977589,
+    "tokens": 2
+  },
+  {
+    "id": "dev-sentiment-4",
+    "model": "small",
+    "output": "negative",
+    "seconds": 0.04559976000018651,
+    "tokens": 2
+  },
+  {
+    "id": "dev-extraction-1",
+    "model": "small",
+    "output": "Lima",
+    "seconds": 0.07017375199939124,
+    "tokens": 3
+  },
+  {
+    "id": "dev-extraction-1",
+    "model": "base",
+    "output": "Lima",
+    "seconds": 0.15956613099842798,
+    "tokens": 3
+  },
+  {
+    "id": "dev-extraction-2",
+    "model": "base",
+    "output": "Oslo",
+    "seconds": 0.13363669800310163,
+    "tokens": 2
+  },
+  {
+    "id": "dev-extraction-2",
+    "model": "small",
+    "output": "Oslo",
+    "seconds": 0.056228153000120074,
+    "tokens": 2
+  },
+  {
+    "id": "dev-extraction-3",
+    "model": "small",
+    "output": "Rome",
+    "seconds": 0.05491709399939282,
+    "tokens": 2
+  },
+  {
+    "id": "dev-extraction-3",
+    "model": "base",
+    "output": "Rome",
+    "seconds": 0.12473855599819217,
+    "tokens": 2
+  },
+  {
+    "id": "dev-extraction-4",
+    "model": "base",
+    "output": "Paris",
+    "seconds": 0.11982479599828366,
+    "tokens": 2
+  },
+  {
+    "id": "dev-extraction-4",
+    "model": "small",
+    "output": "Paris",
+    "seconds": 0.05750419999822043,
+    "tokens": 2
+  },
+  {
+    "id": "dev-arithmetic-1",
+    "model": "small",
+    "output": "2 plus 3",
+    "seconds": 0.07327770700067049,
+    "tokens": 4
+  },
+  {
+    "id": "dev-arithmetic-1",
+    "model": "base",
+    "output": "0",
+    "seconds": 0.1786616640019929,
+    "tokens": 3
+  },
+  {
+    "id": "dev-arithmetic-2",
+    "model": "base",
+    "output": "0",
+    "seconds": 0.1770081750000827,
+    "tokens": 3
+  },
+  {
+    "id": "dev-arithmetic-2",
+    "model": "small",
+    "output": "4 plus 5",
+    "seconds": 0.07496755800093524,
+    "tokens": 4
+  },
+  {
+    "id": "dev-arithmetic-3",
+    "model": "small",
+    "output": "7 plus 2",
+    "seconds": 0.07608296599937603,
+    "tokens": 4
+  },
+  {
+    "id": "dev-arithmetic-3",
+    "model": "base",
+    "output": "0",
+    "seconds": 0.19670969199796673,
+    "tokens": 3
+  },
+  {
+    "id": "dev-arithmetic-4",
+    "model": "base",
+    "output": "0",
+    "seconds": 0.18323045400029514,
+    "tokens": 3
+  },
+  {
+    "id": "dev-arithmetic-4",
+    "model": "small",
+    "output": "6 plus 6",
+    "seconds": 0.10908409600233426,
+    "tokens": 4
+  },
+  {
+    "id": "dev-logic-1",
+    "model": "small",
+    "output": "yes",
+    "seconds": 0.07273413099755999,
+    "tokens": 2
+  },
+  {
+    "id": "dev-logic-1",
+    "model": "base",
+    "output": "yes",
+    "seconds": 0.16578116900200257,
+    "tokens": 2
+  },
+  {
+    "id": "dev-logic-2",
+    "model": "base",
+    "output": "no",
+    "seconds": 0.17613650299608707,
+    "tokens": 2
+  },
+  {
+    "id": "dev-logic-2",
+    "model": "small",
+    "output": "yes",
+    "seconds": 0.06588848399405833,
+    "tokens": 2
+  },
+  {
+    "id": "dev-logic-3",
+    "model": "small",
+    "output": "yes",
+    "seconds": 0.06708838800113881,
+    "tokens": 2
+  },
+  {
+    "id": "dev-logic-3",
+    "model": "base",
+    "output": "yes",
+    "seconds": 0.1374969169992255,
+    "tokens": 2
+  },
+  {
+    "id": "dev-logic-4",
+    "model": "base",
+    "output": "no",
+    "seconds": 0.1427990999945905,
+    "tokens": 2
+  },
+  {
+    "id": "dev-logic-4",
+    "model": "small",
+    "output": "no",
+    "seconds": 0.07216953299939632,
+    "tokens": 2
+  }
+]

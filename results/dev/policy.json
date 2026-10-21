@@ -1,0 +1,6 @@
+{
+  "arithmetic": "small",
+  "extraction": "small",
+  "logic": "base",
+  "sentiment": "small"
+}

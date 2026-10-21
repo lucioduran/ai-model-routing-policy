@@ -1,0 +1,67 @@
+{
+  "environment": {
+    "billed_api_usd": 0,
+    "energy_measured": false,
+    "git_commit": "5dfe340762ef897630aac1b53cca20d33065c126",
+    "git_dirty": false,
+    "machine": "x86_64",
+    "packages": {
+      "huggingface-hub": "0.26.2",
+      "numpy": "1.26.4",
+      "torch": "2.2.2",
+      "transformers": "4.46.3"
+    },
+    "platform": "macOS-26.7.1-x86_64-i386-64bit",
+    "processor": "i386",
+    "python": "3.11.13",
+    "seed": 1729,
+    "threads": 2,
+    "utc": "2026-10-21T23:07:41.115603+00:00"
+  },
+  "experiment_seconds": 37.16343026000686,
+  "fit_seconds": 0.00012450000212993473,
+  "inference_seconds": 3.600025277992245,
+  "models": {
+    "base": {
+      "file_sha256": {
+        "config.json": "7c1853dbfa0e4aac093eb109a358b6ab25fe86b7c15185a91322f0ed26f0f940",
+        "generation_config.json": "f5a1c7e2be8092018d8835128987edf0111637dd98e90599cc80310fef75d95a",
+        "model.safetensors": "1dfb70afdcedceb9f9fae2f9b68e004ad934361fb35b9b2bd50b45ea90790fc8",
+        "special_tokens_map.json": "5c87151ef0f72a99d1f766a4c418bd2a1f90aaa30a8e22fe5eca9641daebb64f",
+        "spiece.model": "d60acb128cf7b7f2536e8f38a5b18a05535c9e14c7a355904270e15b0945ea86",
+        "tokenizer.json": "fe2ebbbbde2985be723e0ce18217853e4020c5e9d35bd07be2c27ab9d3ead57a",
+        "tokenizer_config.json": "4c55124402e4ce48c7125d04b9af152a125eda9e7c80829f8f99f2ec69f3f68d"
+      },
+      "id": "google/flan-t5-base",
+      "load_seconds": 0.7608449939943966,
+      "parameters": 247577856,
+      "revision": "7bcac572ce56db69c1ea7c8af255c5d7c9672fc2",
+      "warmup_seconds": 0.44109930799459107
+    },
+    "small": {
+      "file_sha256": {
+        "config.json": "439aa0fecf5a5546a1def68b1fc45e538e2c94528ce805378daf091e2bf6e4de",
+        "generation_config.json": "f5a1c7e2be8092018d8835128987edf0111637dd98e90599cc80310fef75d95a",
+        "model.safetensors": "495fa51e204676f1a857a9fc13c4c89f3f5ba9f480b898cebca02add25e6d749",
+        "special_tokens_map.json": "5c87151ef0f72a99d1f766a4c418bd2a1f90aaa30a8e22fe5eca9641daebb64f",
+        "spiece.model": "d60acb128cf7b7f2536e8f38a5b18a05535c9e14c7a355904270e15b0945ea86",
+        "tokenizer.json": "fe2ebbbbde2985be723e0ce18217853e4020c5e9d35bd07be2c27ab9d3ead57a",
+        "tokenizer_config.json": "fcde0f79bffda3688119c94330866a8fbf8de20ae65a8c492c9bd47c704655a0"
+      },
+      "id": "google/flan-t5-small",
+      "load_seconds": 0.5466959719997249,
+      "parameters": 76961152,
+      "revision": "0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab",
+      "warmup_seconds": 1.0518873239998356
+    }
+  },
+  "policy": {
+    "arithmetic": "small",
+    "extraction": "small",
+    "logic": "base",
+    "sentiment": "small"
+  },
+  "schema_version": 1,
+  "split": "dev",
+  "tasks_sha256": "eb3144916e70cdb4fd08ba994706401e79d4f4bd4ca940c1b091fbb8869169ce"
+}
